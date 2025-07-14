@@ -4,6 +4,10 @@
 
 Count the number of adverse events before visits using sas table interleave;
 
+github
+https://tinyurl.com/4r8vjs68
+https://github.com/rogerjdeangelis/utl-count-the-number-of-adverse-events-before-visits-using-sas-table-interleave
+
 sas communities
 https://tinyurl.com/2myam2x6
 https://communities.sas.com/t5/SAS-Programming/count-events-in-one-dataset-between-two-visits-in-another/m-p/767332#M243271
